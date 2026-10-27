@@ -1,0 +1,6 @@
+{
+  "name": "FinLapor - Laporan Keuangan & Kasbon",
+  "description": "Aplikasi laporan keuangan harian dengan grafik analitik, total realisasi, uang muka outstanding, pengingat tagihan bulanan, dan ekspor PDF & Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
